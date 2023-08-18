@@ -1,0 +1,15 @@
+.formulario{
+    text-align: center;
+    background-color: aquamarine;
+    border-style: double;
+    max-width: 60vw;
+    margin: 30vh auto;
+}
+
+#formularioCarros{
+    font-size: large;
+    font-weight: 600;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
